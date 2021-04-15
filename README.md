@@ -1,5 +1,5 @@
 # Data_Manipulation_Pandas_GooglePlayStore_Apps_Dataset
-##  This notebook, is comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories.
+### In this project, I did a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. I looked for insights in the data to devise strategies to drive growth and retention.
 
 ## Missing Values
 ![1](https://user-images.githubusercontent.com/56628918/92249656-ba064900-eeca-11ea-9b8f-9ea7dabd2e76.png)
